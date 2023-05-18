@@ -1,7 +1,7 @@
 # 💫 About Me: Hi this is UnknownSentinel.            I am A
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Security+Enthusiast;Web+Developer;CTF+Player;FPS+Gamer.">
+            <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Security+Enthusiast;Web+Developer;CTF+Player;FPS+Gamer.">
   </a>
 </h1>
 🔭 I’m currently working on<br>🌱 I’m currently learning Web Application Security, Web3,<br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, Security.<br>🤔 I’m looking for help with Ranking UP in Valorant 🥲<br>💬 Ask me about Computer Security, Web Dev, Web Application Security.<br>😄 Pronouns: He/Him<br>📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
