@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Computer Security, Web Dev, Web Application Security.
 - 😄 Pronouns: He/Him
 - 📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
--->
 
 ##Skills
 
@@ -26,3 +25,7 @@ Here are some ideas to get you started:
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+-->
+
+
