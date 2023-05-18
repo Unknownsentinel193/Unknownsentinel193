@@ -1,4 +1,4 @@
-# 💫 About Me: Hi this is UnknownSentinel.            I am A
+# About Me: Hi this is UnknownSentinel.            I am A
 <h1 align="center">
   <a href="">
             <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Security+Enthusiast;Web+Developer;CTF+Player;FPS+Gamer.">
