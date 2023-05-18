@@ -1,9 +1,9 @@
-# Hi this is UnknownSentinel. I am a
-<h1 align="center">
-  <a href="">
-            <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Security+Enthusiast;Web+Developer;CTF+Player;FPS+Gamer.">
-  </a>
-</h1>
+<div id="header" align="center">
+  <img src=https://media3.giphy.com/media/S4rMbaFzvxfJm/giphy.gif width="200"/>
+</div>
+<h1 align="center"> Hi 👋</h1>
+
+[![Typing SVG]("https://readme-typing-svg.herokuapp.com?lines=Hello+this+is+Unknown+Sentinel%2C+Welcome+to+my+Github+page..")](https://git.io/typing-svg)
 🔭 I’m currently working on Hacking, RHCSA, OpenSource Projects.
 <br>🌱 I’m currently learning Web Application Security, Web3, mongodb, and Binary Exploitation.
 <br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, anything related to Computer Security.
