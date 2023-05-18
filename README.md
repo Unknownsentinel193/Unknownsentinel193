@@ -1,7 +1,6 @@
 ### Hi there 👋 This is UnknownSentinel. I am 
 <h1 align="center">
   <a href="">
-    
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Security+Enthusiast%2C;Web+Developer%2C;CTF+Player%2CFPS+Gamer.">
   </a>
 </h1>
