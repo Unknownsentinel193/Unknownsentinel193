@@ -5,7 +5,7 @@ I am A
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Security+Enthusiast%2C;Web+Developer%2C;CTF+Player%2CFPS+Gamer.">
   </a>
 </h1>
-<!--
+
 **Unknownsentinel193/Unknownsentinel193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
--->
+
 
 
