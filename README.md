@@ -4,7 +4,7 @@
 </div>
 <h1 align="center"> Hi 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Unknown+Sentinel%2C+Welcome+to+my+Github+page.......;I+am+a+Python+developer+and+Computer+Security+Enthusiast...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines= Hello+this+is+Unknown+Sentinel%2C+Welcome+to+my+Github+page.......;I+am+a+Python+developer+and+Computer+Security+Enthusiast...)](https://git.io/typing-svg)
 
 ---
 <br>🔭 I’m currently working on OpenSource Projects, CTF's.
