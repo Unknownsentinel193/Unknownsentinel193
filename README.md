@@ -19,7 +19,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Unknownsentinel193&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Unknownsentinel193&theme=gotham&hide_border=false)<br/>
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=Unknownsentinel193&theme=react-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownsentinel193&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
