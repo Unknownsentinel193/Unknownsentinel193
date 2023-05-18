@@ -1,6 +1,6 @@
 # 🧑‍💻About Me:
 <div id="header" align="center">
-  <img src=https://media3.giphy.com/media/S4rMbaFzvxfJm/giphy.gif width="300"/>
+  <img src=https://media3.giphy.com/media/S4rMbaFzvxfJm/giphy.gif width="220"/>
 </div>
 <h1 align="center"> Hi 👋</h1>
 
