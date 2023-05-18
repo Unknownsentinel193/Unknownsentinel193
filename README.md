@@ -1,10 +1,15 @@
-# About Me: Hi this is UnknownSentinel. I am a
+# Hi this is UnknownSentinel. I am a
 <h1 align="center">
   <a href="">
             <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Security+Enthusiast;Web+Developer;CTF+Player;FPS+Gamer.">
   </a>
 </h1>
-🔭 I’m currently working on<br>🌱 I’m currently learning Web Application Security, Web3,<br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, Security.<br>🤔 I’m looking for help with Ranking UP in Valorant 🥲<br>💬 Ask me about Computer Security, Web Dev, Web Application Security.<br>😄 Pronouns: He/Him<br>📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
+🔭 I’m currently working on Hacking, RHCSA, OpenSource Projects.
+<br>🌱 I’m currently learning Web Application Security, Web3, mongodb, and Binary Exploitation.
+<br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, anything related to Computer Security.
+<br>🤔 I’m looking for help with Ranking UP in Valorant 🥲.
+<br>💬 Ask me about Computer Security, Web Dev, Web Application Security.
+<br>😄 Pronouns: He/Him<br>📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Unknownsentinel193&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
