@@ -1,13 +1,12 @@
 # About Me:
 <div id="header" align="center">
-  <img src=https://media3.giphy.com/media/S4rMbaFzvxfJm/giphy.gif width="200"/>
+  <img src=https://media3.giphy.com/media/S4rMbaFzvxfJm/giphy.gif width="300"/>
 </div>
 <h1 align="center"> Hi 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Unknown+Sentinel%2C+Welcome+to+my+Github+page.......)](https://git.io/typing-svg)
 
 ---
-
 <br>🔭 I’m currently working on OpenSource Projects, CTF's.
 <br>🌱 I’m currently learning Web Application Security, Binary Exploitation, Linux Administration(Red Hat), Python.
 <br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, anything related to Computer Security.
