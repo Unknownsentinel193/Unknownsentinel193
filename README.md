@@ -8,18 +8,19 @@
 
 ---
 
-🔭 I’m currently working on Hacking, RHCSA, OpenSource Projects.
-<br>🌱 I’m currently learning Web Application Security, Web3, mongodb, and Binary Exploitation.
+<br>🔭 I’m currently working on OpenSource Projects, CTF's.
+<br>🌱 I’m currently learning Web Application Security, Binary Exploitation, Linux Administration(Red Hat), Python.
 <br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, anything related to Computer Security.
 <br>🤔 I’m looking for help with ranking up out of Gold in Valorant 🥲.
 <br>💬 Ask me about Computer Security, Web Dev, Web Application Security.
-<br>😄 Pronouns: He/Him<br>📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
+<br>😄 Pronouns: He/Him
+<br>📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Unknownsentinel193&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Unknownsentinel193&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Unknownsentinel193&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Unknownsentinel193&theme=react&hide_border=false)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Unknownsentinel193&theme=react-dark)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Unknownsentinel193&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
