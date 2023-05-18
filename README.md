@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> Hi 👋</h1>
 
-[![Typing SVG]("https://readme-typing-svg.herokuapp.com?lines=Hello+this+is+Unknown+Sentinel%2C+Welcome+to+my+Github+page..")](https://git.io/typing-svg)
+[![Typing SVG]("(https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Unknown+Sentinel%2C+Welcome+to+my+Github+page..")](https://git.io/typing-svg)
 
 🔭 I’m currently working on Hacking, RHCSA, OpenSource Projects.
 <br>🌱 I’m currently learning Web Application Security, Web3, mongodb, and Binary Exploitation.
