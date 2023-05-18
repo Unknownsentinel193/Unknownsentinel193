@@ -10,7 +10,7 @@
 🔭 I’m currently working on Hacking, RHCSA, OpenSource Projects.
 <br>🌱 I’m currently learning Web Application Security, Web3, mongodb, and Binary Exploitation.
 <br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, anything related to Computer Security.
-<br>🤔 I’m looking for help with Ranking UP in Valorant 🥲.
+<br>🤔 I’m looking for help with ranking up out of Gold in Valorant 🥲.
 <br>💬 Ask me about Computer Security, Web Dev, Web Application Security.
 <br>😄 Pronouns: He/Him<br>📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
 
