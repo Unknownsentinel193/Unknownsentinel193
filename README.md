@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Unknown+Sentinel%2C+Welcome+to+my+Github+page.......;I+am+a+Python+developer+and+Computer+Security+Enthusiast...)](https://git.io/typing-svg)
 
 ---
-![](https://komarev.com/ghpvc/?username=Unknownsentinel193&label=PROFILE+VIEWS)
 <br>🔭 I’m currently working on OpenSource Projects, CTF's.
 <br>🌱 I’m currently learning Web Application Security, Binary Exploitation, Linux Administration(Red Hat), Python.
 <br>👯 I’m looking to collaborate in Open Source Projects(Tech Stack: Python, HTML/CSS/Javascript), CTFs, anything related to Computer Security.
@@ -45,4 +44,5 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayan-baig-33a6701aa)
 
+![](https://komarev.com/ghpvc/?username=Unknownsentinel193&label=PROFILE+VIEWS)
 
