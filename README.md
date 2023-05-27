@@ -18,7 +18,7 @@
 ---
 
 # 📊 GitHub Stats:
-[![Unknown1934's GitHub | Stats](https://stats.quine.sh/Unknown1934/github?theme=light)](https://quine.sh)
+
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Unknownsentinel193&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Unknownsentinel193&theme=react&hide_border=false)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Unknownsentinel193&theme=react-dark)
