@@ -14,7 +14,6 @@
 <br>🤔 I’m looking for help with ranking up out of Gold in Valorant 🥲.
 <br>💬 Ask me about Computer Security, Web Dev, Web Application Security.
 <br>😄 Pronouns: He/Him
-<br>📧 Check out my [portfolio website](https://unknownsentinel193.github.io/Portfolio/) to get to know me better
 
 ---
 
